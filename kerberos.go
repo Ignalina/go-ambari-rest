@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/disaster37/go-ambari-rest/client"
+	"go-ambari-rest/client"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/urfave/cli.v1"

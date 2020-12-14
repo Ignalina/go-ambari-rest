@@ -4,7 +4,7 @@ package client
 
 import (
 	"crypto/tls"
-	"github.com/go-resty/resty"
+	"gopkg.in/resty.v1"
 )
 
 // Ambari client object

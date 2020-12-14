@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/disaster37/go-ambari-rest/client"
+	"go-ambari-rest/client"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 	"github.com/urfave/cli/altsrc"
 	prefixed "github.com/x-cray/logrus-prefixed-formatter"
-	"gopkg.in/urfave/cli.v1"
+	"github.com/urfave/cli"
 	"os"
 )
 

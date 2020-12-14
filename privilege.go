@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/disaster37/go-ambari-rest/client"
+	"go-ambari-rest/client"
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/urfave/cli.v1"
 	"io/ioutil"
